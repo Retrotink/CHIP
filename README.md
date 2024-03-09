@@ -1,6 +1,6 @@
 # C.H.I.P.
 ## Complete Homebrew Integrated Processor - The Single board Color Computer
-This is the CHIP Single Board Computer Project designed exclusively for VCFSW 2024. This is an all in one mini color computer kit for the VCFSW workshop. This project is based on the Pocket Mini Computer by done in 2012 but no longer available online. 
+This is the CHIP Single Board Computer Project designed exclusively for VCFSW 2024. This is an all in one mini color computer kit for the VCFSW workshop. This project is based on the Pocket Mini Computer by Jeff Ledger in 2012 but no longer available online. 
 The project will be open source so if you are unable to attend you can still build your own computer!
 
 ## Specifications:
