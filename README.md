@@ -10,6 +10,7 @@ RAM: 32K External RAM + 4K onboard available for programming<br>
 Video: VGA color output<br>
 Input: PS/2 Keyboard port<br>
 Output: Stereo Audio Port to generate 8 bit sounds<br>
+Controller: Board edge connector for Wii nunchuk joystick<br>
 Storage: SD card slot for storage (upto 2G in size)<br>
 
 ## Coming soon: <br>
