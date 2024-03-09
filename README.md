@@ -13,4 +13,7 @@ Input: PS/2 Keyboard port<br>
 Output: Stereo Audio Port to generate sounds<br>
 Storage: SD card slot for storage (upto 2G in size)<br>
 
+Coming soon: <br>
+Pictures, design files, code and build instructions<br>
+
 
