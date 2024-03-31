@@ -14,7 +14,8 @@ The project will be open source so if you are unable to attend you can still bui
 ## Specifications:
 
 Processor: Parallax P8X32A-D40 mico controller running at 80Mhz. <br>
-RAM: 32K External RAM + 4K onboard available for programming<br>
+RAM: 32K System RAM with 4K program space remaining <br>
+External RAM: 32K External RAM <br>
 Video: VGA color output<br>
 Input: PS/2 Keyboard port<br>
 Output: Stereo Audio Port to generate 8 bit sounds<br>
