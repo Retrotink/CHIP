@@ -24,4 +24,8 @@ Storage: SD card slot for storage (upto 2G in size)<br>
 ## Coming soon: <br>
 Pictures, design files, code and build instructions<br>
 
+## B.O.M.
+
+![image](https://github.com/Retrotink/C.H.I.P./assets/121696513/efd15496-b053-4cd0-a399-c38385d1edbb)
+
 
