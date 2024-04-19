@@ -5,7 +5,7 @@
 ## A Single board Color Computer with Tiny Color BASIC<br>
 ## VCFSW Workshop 2024 Hosted by Vince Briel
 ## Sunday June 16th 9:00 AM
-## Kit price $50.00
+## Kit price $50.00 Available at my table Friday & Saturday
 
 This is the CHIP Prototype Single Board Color Computer Project designed exclusively for VCFSW 2024 Workshop. <br>
 CHIP is an all in one mini color computer kit for the VCFSW workshop. CHIP is based on the Pocket Mini Computer by Jeff Ledger in 2012 but no longer available online. 
