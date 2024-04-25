@@ -1,6 +1,7 @@
 # C.H.I.P. (C)omplete (H)omebrew (I)ntegrated (P)rocessor<br>
 
-![CHIP_rev0](https://github.com/Retrotink/C.H.I.P./assets/121696513/23ce4798-8502-41de-a011-b178df0d9dc2)
+![15](https://github.com/Retrotink/CHIP/assets/121696513/aad8cdb2-fd03-4e4e-973e-a151032b2a93)
+
 
 ## A Single board Color Computer with Tiny Color BASIC<br>
 ## VCFSW Workshop 2024 Hosted by Vince Briel
