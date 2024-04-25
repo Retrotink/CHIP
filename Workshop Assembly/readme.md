@@ -38,16 +38,22 @@ Step 3: The power switch<br>
 
 Install switch into its location. Make sure the slide part of the switch faces away from the PCB. When flush with the PCB, turn over holding the switch from falling out and place on your workspace. Solder down all 6 posts making sure no solder flows across to the other tabs. Then solder the outter support posts.<br>
 
-Step 4: The IC sockets<br>
-
-![socket](https://github.com/Retrotink/PockeTerm-II/assets/121696513/30c07d55-07e7-40dc-ac42-17c071c2a6b0)
-
-On the shorter edge of the socket is a notch showing you the direction to install the socket. Place the 40 pin large socket flush onto the PCB. Holding the socket, flip the board over and set on your workspace. Solder 2 pins on opposite corners and turn the board over and make sure the socket is flush with the PCB. Heat and adjust if needed. Solder the other 38 pins. Check for completeness of all the pins. If you accidentally install the socket backwards, it will still work just correctly. Just remember when you go to install the chips that the notch is at the wrong end. Repeat for the other 2 smaller 8 pin DIP sockets.
-
-Step 5: Install the RESET Button
+Step 4: Install the RESET Button
 
 ![5](https://github.com/Retrotink/CHIP/assets/121696513/d1a10400-a222-433b-810e-f33bb514a673)
 
 The RESET Button is slightly rectangular in shape so you can not install it incorrectly. Place the switch flush with the PCB, hold the button while turning over the board. If you bend the tabs slightly inwards the button will hug onto the board. Solder all 4 tabs and make sure the button is as flush as possible. 
 
-Step 6: 
+Step 5: The IC sockets<br>
+
+![socket](https://github.com/Retrotink/PockeTerm-II/assets/121696513/30c07d55-07e7-40dc-ac42-17c071c2a6b0)
+
+On the shorter edge of the socket is a notch showing you the direction to install the socket. Place the 40 pin large socket flush onto the PCB. Holding the socket, flip the board over and set on your workspace. Solder 2 pins on opposite corners and turn the board over and make sure the socket is flush with the PCB. Heat and adjust if needed. Solder the other 38 pins. Check for completeness of all the pins. If you accidentally install the socket backwards, it will still work just correctly. Just remember when you go to install the chips that the notch is at the wrong end. Repeat for the other 2 smaller 8 pin DIP sockets.
+
+Step 6: Install the SD Card connector board
+
+![6](https://github.com/Retrotink/CHIP/assets/121696513/71b6ad80-15ca-4312-8dd1-92e20a4c5fca)
+
+The SD Card board has 6 pins that need to go into the board so the socket faces out over the edge of the board. While holding the SD Card board, turn the CHIP PCB over and carefully place the board on the table. Solder 1 pin down and turn the board over and verify the SD Board is flush to the CHIP PCB (adjust if necessary). Solder the remaining pins down and verify that the SD Card board is finished.
+
+Step 7: 
