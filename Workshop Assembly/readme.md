@@ -56,4 +56,22 @@ Step 6: Install the SD Card connector board
 
 The SD Card board has 6 pins that need to go into the board so the socket faces out over the edge of the board. While holding the SD Card board, turn the CHIP PCB over and carefully place the board on the table. Solder 1 pin down and turn the board over and verify the SD Board is flush to the CHIP PCB (adjust if necessary). Solder the remaining pins down and verify that the SD Card board is finished.
 
-Step 7: 
+Step 7: The USB PC Serial Power Connector <br>
+
+![7](https://github.com/Retrotink/CHIP/assets/121696513/1219ae3d-00ef-4478-bc32-f23d3140a92e)
+
+The USB Power connector has 6 pins and when placed onto CHIP SBC board may be slightly elevated from the front edge. Make sure the connector is completely inserted before beginning soldering
+
+Step 8: .1uF capacitors<br>
+
+![cap 1](https://github.com/Retrotink/PockeTerm-II/assets/121696513/b4f1ca5c-9019-4a8d-b8e1-dcfbb06bebc8)
+
+Install the two .1uF (C1-C5) caps into their locations. The caps are labeled 104 and are not polarized so they can be installed either way. Fit as flush as possible, bend the 2 wires apart a little so the capacitor does not fall out, turn the board over and set it on your workspace. Solder the leads onto the PCB and cut away the excess lead length.
+
+Step 9: .01uF capacitor <br>
+![cap 01](https://github.com/Retrotink/PockeTerm-II/assets/121696513/ffa5ab7a-6fa5-4246-9df7-4ea65dda23fc)
+
+Install the .01uF capacitor C6 into its location. The capacitor is labeled 103 and is not polarized so it can be installed either direction. Fit as flush as possible, bend the 2 wires apart a little so the capacitor does not fall out, turn the board over and set it on your workspace. Solder the leads onto the PCB and cut the excess lead length.
+
+Step 10: Install the 2N4401 Transistor by following the board shape for the half circle. Like the capacitors, bend the outter leads slightly away from the center one to hold it in place. Get it as close to the pcb as possible, then fliip the board over and solder down.
+
