@@ -74,6 +74,8 @@ RND <br>
 #### Bitwise <br>
 & ! OR ROL ROR SAR SHL SHR REV <br>
 <br>
+### Statements <br>
+<br>
 #### Logic Flow <br>
 FOR...NEXT <br>
 GOSUB...RETURN <br>
@@ -82,6 +84,8 @@ IF...THEN <br>
 PAUSE <br>
 STOP/END <br>
 LET <br>
+<br>
+### Functions <br>
 <br>
 #### Console <br>
 CLS <br>
