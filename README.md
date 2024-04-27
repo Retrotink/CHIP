@@ -122,7 +122,7 @@ CLEAR <br>
 POKE <br>
 PEEK<br>
 
-#### Propeller Microconroller Specific Commands <br>
+#### Propeller Micro-controller Specific Commands <br>
 CNT INA OUTA PHSA PHSB FRQA FRQB CTRA CTRB <br>
 
 
