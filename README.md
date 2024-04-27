@@ -58,7 +58,7 @@ VER <br>
 #### Arithmetic <br>
 "+ - * / //"<br>
 <br>
-Comparision <br>
+#### Comparision <br>
 = < > <= >= <> <br>
 <br>
 #### Logical <br>
