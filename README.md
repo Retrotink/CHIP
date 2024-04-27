@@ -26,10 +26,95 @@ Output: Stereo Audio Port to generate 8 bit sounds<br>
 Storage: SD card slot for storage (upto 2G in size)<br>
 
 ## Coming soon: <br>
-BASIC Sample Code and build instructions<br>
+BASIC Sample Code<br>
 
 ## B.O.M.
 
 ![image](https://github.com/Retrotink/C.H.I.P./assets/121696513/efd15496-b053-4cd0-a399-c38385d1edbb)
 
+## BASIC Commands <br>
+
+### COMMANDS
+BRUN <br>
+DELETE <br>
+DIR <br>
+HOLD <br>
+LIST <br>
+LOAD <br>
+NEW <br>
+RUN <br>
+REBOOT <br>
+SAVE <br>
+MEM <br>
+VER <br>
+<br>
+
+### OPERATORS <br>
+Arithmetic <br>
++ - * / //<br>
+<br>
+Comparision <br>
+= < > <= >= <> <br>
+<br>
+Logical <br>
+AND NOT OR <br>
+<br>
+Numeric <br>
+ASC <br>
+BYTE <br>
+WORD <br>
+LONG <br>
+RND <br>
+<br>
+Bitwise
+& ! OR ROL ROR SAR SHL SHR REV <br>
+<br>
+Logic Flow <br>
+FOR...NEXT <br>
+GOSUB...RETURN <br>
+GOTO <br>
+IF...THEN <br>
+PAUSE <br>
+STOP/END <br>
+LET <br>
+<br>
+Console <br>
+CLS <br>
+COLOR <br>
+INKEY <br>
+HOME <br>
+DISPLAY <br>
+LOCATE <br>
+INPUT <br>
+PRINT <br>
+REDEFINE <br>
+REM <br>
+<br>
+Graphics <br>
+PLOT <br>
+LINE <br>
+BOX <br>
+<br>
+Sound <BR>
+ATTACK <br>
+DECAY <br>
+FILTER <br>
+NOTEON <br>
+NOTEOFF <br>
+SUSTAIN <br>
+PLUCK <br>
+PWMINIT <br>
+PWMRATE <br>
+<br>
+Serial <br>
+SERIAL RX TX <br>
+<br>
+Extended Memory Commands<br>
+CLEAR <br>
+POKE <br>
+PEEK<br>
+<br>
+Propeller Microconroller Specific Commands <br>
+CNT INA OUTA PHSA PHSB FRQA FRQB CTRA CTRB <br>
+<br>
 
