@@ -1,6 +1,9 @@
 # C.H.I.P. (C)omplete (H)omebrew (I)ntegrated (P)rocessor<br>
 
 ![15](https://github.com/Retrotink/CHIP/assets/121696513/aad8cdb2-fd03-4e4e-973e-a151032b2a93)
+<br>
+![20240427_100239](https://github.com/Retrotink/CHIP/assets/121696513/64df5f28-b1cc-4447-bd8d-f04b8e90c97c)
+
 
 
 ## A Single board Color Computer with Tiny Color BASIC<br>
