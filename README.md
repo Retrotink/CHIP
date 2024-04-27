@@ -34,7 +34,7 @@ BASIC Sample Code<br>
 
 ## BASIC Commands <br>
 
-### COMMANDS
+### CONTROL COMMANDS
 BRUN <br>
 DELETE <br>
 DIR <br>
@@ -50,26 +50,26 @@ VER <br>
 <br>
 
 ### OPERATORS <br>
-Arithmetic <br>
-+ - * / //<br>
+#### Arithmetic <br>
+"+ - * / //"<br>
 <br>
 Comparision <br>
 = < > <= >= <> <br>
 <br>
-Logical <br>
+#### Logical <br>
 AND NOT OR <br>
 <br>
-Numeric <br>
+#### Numeric <br>
 ASC <br>
 BYTE <br>
 WORD <br>
 LONG <br>
 RND <br>
 <br>
-Bitwise
+#### Bitwise <br>
 & ! OR ROL ROR SAR SHL SHR REV <br>
 <br>
-Logic Flow <br>
+#### Logic Flow <br>
 FOR...NEXT <br>
 GOSUB...RETURN <br>
 GOTO <br>
@@ -78,7 +78,7 @@ PAUSE <br>
 STOP/END <br>
 LET <br>
 <br>
-Console <br>
+#### Console <br>
 CLS <br>
 COLOR <br>
 INKEY <br>
@@ -90,12 +90,12 @@ PRINT <br>
 REDEFINE <br>
 REM <br>
 <br>
-Graphics <br>
+#### Graphics <br>
 PLOT <br>
 LINE <br>
 BOX <br>
 <br>
-Sound <BR>
+#### Sound <BR>
 ATTACK <br>
 DECAY <br>
 FILTER <br>
@@ -106,15 +106,15 @@ PLUCK <br>
 PWMINIT <br>
 PWMRATE <br>
 <br>
-Serial <br>
+#### Serial Port Commands <br>
 SERIAL RX TX <br>
 <br>
-Extended Memory Commands<br>
+#### Extended Memory Commands<br>
 CLEAR <br>
 POKE <br>
 PEEK<br>
 <br>
-Propeller Microconroller Specific Commands <br>
+#### Propeller Microconroller Specific Commands <br>
 CNT INA OUTA PHSA PHSB FRQA FRQB CTRA CTRB <br>
 <br>
 
