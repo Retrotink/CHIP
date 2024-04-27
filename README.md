@@ -32,6 +32,11 @@ BASIC Sample Code<br>
 
 ![image](https://github.com/Retrotink/C.H.I.P./assets/121696513/efd15496-b053-4cd0-a399-c38385d1edbb)
 
+## ABOUT PROPELLER BASIC <br>
+Propeller BASIC that is the default programming language in the CHIP computer is a Tiny BASIC. <br>
+While it contains many functions including graphics, sound, DOS, it does not have string variables <br>
+The CHIP was designed as a beginner computer for entry level soldering and programming. <br>
+<br>
 ## BASIC Commands <br>
 
 ### CONTROL COMMANDS
