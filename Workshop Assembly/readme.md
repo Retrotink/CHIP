@@ -62,16 +62,58 @@ Step 7: The USB PC Serial Power Connector <br>
 
 The USB Power connector has 6 pins and when placed onto CHIP SBC board may be slightly elevated from the front edge. Make sure the connector is completely inserted before beginning soldering
 
-Step 8: .1uF capacitors<br>
+Step 8: Install the Audio Connector <br>
+
+![audio](https://github.com/Retrotink/CHIP/assets/121696513/53d8ebd9-a5a1-4888-832e-bdc716aceffc)
+
+Insert the Audio Connector with the female plug facing out away from the pcb. While holding the audio connector, turn the board over and lay on the table to solder down. Solder 1 pin down then turn over to check that the connector is flush with the pcb. If not. heat the pin that was just soldered while applying pressure to the connector to get it down flush. Solder the remaining pins on the connector.
+
+Step 9: .1uF capacitors<br>
 
 ![cap 1](https://github.com/Retrotink/PockeTerm-II/assets/121696513/b4f1ca5c-9019-4a8d-b8e1-dcfbb06bebc8)
 
 Install the two .1uF (C1-C5) caps into their locations. The caps are labeled 104 and are not polarized so they can be installed either way. Fit as flush as possible, bend the 2 wires apart a little so the capacitor does not fall out, turn the board over and set it on your workspace. Solder the leads onto the PCB and cut away the excess lead length.
 
-Step 9: .01uF capacitor <br>
+Step 10: .01uF capacitor <br>
 ![cap 01](https://github.com/Retrotink/PockeTerm-II/assets/121696513/ffa5ab7a-6fa5-4246-9df7-4ea65dda23fc)
 
 Install the .01uF capacitor C6 into its location. The capacitor is labeled 103 and is not polarized so it can be installed either direction. Fit as flush as possible, bend the 2 wires apart a little so the capacitor does not fall out, turn the board over and set it on your workspace. Solder the leads onto the PCB and cut the excess lead length.
 
-Step 10: Install the 2N4401 Transistor by following the board shape for the half circle. Like the capacitors, bend the outter leads slightly away from the center one to hold it in place. Get it as close to the pcb as possible, then fliip the board over and solder down.
+Step 11: Install the 2N4401 Transistor<br>
+![transistor](https://github.com/Retrotink/PockeTerm-II/assets/121696513/5f2d2f0a-00b0-4b07-baf8-7dfe22e6a85a)
+
+Follow the board shape for the half circle for correct orientation. Like the capacitors, bend the outter leads slightly away from the center one to hold it in place. Get it as close to the pcb as possible, then flip the board over and solder down. Trim the excess of the leads off
+
+![11](https://github.com/Retrotink/CHIP/assets/121696513/c70d0639-4522-4d61-a0c0-42ae68f3eccd)
+
+Step 12: VGA connector<br>
+
+![vga](https://github.com/Retrotink/PockeTerm-II/assets/121696513/09b62c6e-56cd-4fdc-ab0c-45e3034e3894)
+
+The VGA is nearly the same as the DB9 serial port except it has 3 rows of pins. Insert flush with PCB, turn and solder the inside row first, followed by the outer 2 rows. Check your work, and then solder the support tabs down.
+
+![12](https://github.com/Retrotink/CHIP/assets/121696513/95c3892c-5649-4dff-bac0-5a578d81d2ab)
+
+Step 13: 10uF electrolytic capacitors<br>
+
+![cap10](https://github.com/Retrotink/PockeTerm-II/assets/121696513/c7e23a6e-7e4a-4e91-b1af-82b1a7c92350)
+
+The 3 electrolytic capacitors C7-C9 are polarized and must be installed correctly. They are cylinder shaped and both leads protrude from the same side and are labeled 10uF. There are two ways to tell the + and - leads. First, looking at the leads, the positive lead is longer than the negative lead. Secondly, there is a large white arrow pointing to the - lead. Install flush with the PCB and bend the two leads slightly apart from one another. Turn the board over and solder onto the PCB. Cut the excess lead and repeat for the other 2 capacitors.
+
+Step 14: PS/2 keyboard connector<br>
+
+![ps2](https://github.com/Retrotink/PockeTerm-II/assets/121696513/4714c28a-69ef-4dac-a793-3360bb58dc8d)
+
+Install this part slow and carefully. If the pins are not lined up, they will push back and not go through the pcb. Place connector flush onto the PCB and hold while turning over to keep it from falling out. Place on workspace and solder onto the board. You may wish to solder just the large tab first and check to make sure it is flush before soldering the other pins down.
+
+![13](https://github.com/Retrotink/CHIP/assets/121696513/179db92b-9d87-4fe9-97c9-23a94d0c6288)
+
+Step 15: The cleanup
+
+Optional: Before you power up your board, it is recommended that you wash off the excess flux and check for any missed solder connections. I like to clean with plain water and a soft tooth brush. Run under the tap water for a minute washing off excess flux. Dry immediately with a blow dryer on low heat. You can also use canned or compressed air in place of blow dryer.
+
+Step 16: Initial power test
+
+Install the IC chips; connect a keyboard and VGA monitor. Plug in your CHIP to a wall power suppy after everything is connected. The USB will also show the RED LED on to show that power is coming into the unit. Turn on your CHIP computer and you should get a text log message at the top of your screen. The keyboard will also blink as it is powered on. If you don't get anything, turn off the computer and recheck your connections.
+
 
