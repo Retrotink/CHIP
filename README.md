@@ -37,7 +37,7 @@ Propeller BASIC that is the default programming language in the CHIP computer is
 While it contains many functions including graphics, sound, DOS, it does not have string variables <br>
 The CHIP was designed as a beginner computer for entry level soldering and programming. <br>
 <br>
-## BASIC Commands <br>
+## BASIC COMMANDS <br>
 
 ### CONTROL COMMANDS
 BRUN <br>
@@ -52,30 +52,29 @@ REBOOT <br>
 SAVE <br>
 MEM <br>
 VER <br>
-<br>
 
 ### OPERATORS <br>
 #### Arithmetic <br>
 "+ - * / //"<br>
-<br>
+
 #### Comparision <br>
 = < > <= >= <> <br>
-<br>
+
 #### Logical <br>
 AND NOT OR <br>
-<br>
+
 #### Numeric <br>
 ASC <br>
 BYTE <br>
 WORD <br>
 LONG <br>
 RND <br>
-<br>
+
 #### Bitwise <br>
 & ! OR ROL ROR SAR SHL SHR REV <br>
-<br>
-### Statements <br>
-<br>
+
+### Statements 
+
 #### Logic Flow <br>
 FOR...NEXT <br>
 GOSUB...RETURN <br>
@@ -84,9 +83,9 @@ IF...THEN <br>
 PAUSE <br>
 STOP/END <br>
 LET <br>
-<br>
+
 ### Functions <br>
-<br>
+
 #### Console <br>
 CLS <br>
 COLOR <br>
@@ -98,12 +97,12 @@ INPUT <br>
 PRINT <br>
 REDEFINE <br>
 REM <br>
-<br>
+
 #### Graphics <br>
 PLOT <br>
 LINE <br>
 BOX <br>
-<br>
+
 #### Sound <BR>
 ATTACK <br>
 DECAY <br>
@@ -114,16 +113,16 @@ SUSTAIN <br>
 PLUCK <br>
 PWMINIT <br>
 PWMRATE <br>
-<br>
+
 #### Serial Port Commands <br>
 SERIAL RX TX <br>
-<br>
+
 #### Extended Memory Commands<br>
 CLEAR <br>
 POKE <br>
 PEEK<br>
-<br>
+
 #### Propeller Microconroller Specific Commands <br>
 CNT INA OUTA PHSA PHSB FRQA FRQB CTRA CTRB <br>
-<br>
+
 
