@@ -1,0 +1,12 @@
+1 COLOR 63,0
+2 CLS 
+10 a=RND (100)
+15 x=x+1
+20 b=RND (100)
+30 c=RND (100)
+40 d=RND (100)
+50 e=RND (64)
+100 LINE a,b,c,d,e
+105 IF x>63 THEN CLS 
+106 IF x>63 THEN LET x=0
+110 GOTO 10

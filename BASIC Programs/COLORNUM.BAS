@@ -1,0 +1,8 @@
+5 COLOR 1,0
+10 CLS 
+20 FOR x = 0 TO 63
+30 COLOR x,0
+40 PRINT x;
+50 PRINT " ";
+60 NEXT x
+70 PRINT " "
