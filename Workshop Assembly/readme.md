@@ -108,7 +108,13 @@ Step 14: PS/2 keyboard connector<br>
 
 ![ps2](https://github.com/Retrotink/PockeTerm-II/assets/121696513/4714c28a-69ef-4dac-a793-3360bb58dc8d)
 
-Install this part slow and carefully. Remove the front retaining pin if not already removed. If the pins are not lined up, they will push back and not go through the pcb. Place connector flush onto the PCB and hold while turning over to keep it from falling out. Place on workspace and solder onto the board. You may wish to solder just the large tab first and check to make sure it is flush before soldering the other pins down.
+Install this part slow and carefully. Remove the front retaining pin if not already removed. See image below:
+
+![image](https://github.com/Retrotink/CHIP/assets/121696513/b84c8fc0-6bad-43ad-9c03-097ed9dd4693)
+
+
+
+If the pins are not lined up, they will push back and not go through the pcb. Place connector flush onto the PCB and hold while turning over to keep it from falling out. Place on workspace and solder onto the board. You may wish to solder just the large tab first and check to make sure it is flush before soldering the other pins down.
 
 ![13](https://github.com/Retrotink/CHIP/assets/121696513/179db92b-9d87-4fe9-97c9-23a94d0c6288)
 
