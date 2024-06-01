@@ -8,6 +8,7 @@ Step 1: The Resistors<br>
 
 ![1](https://github.com/Retrotink/CHIP/assets/121696513/be94f93f-92a9-452d-a50d-a8f25adf5359)
 
+# Parts List
 
 ![image](https://github.com/Retrotink/CHIP/assets/121696513/5bc11099-3f6f-4728-9c3b-2b595e480393)
 
