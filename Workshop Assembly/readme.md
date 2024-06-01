@@ -12,7 +12,7 @@ Step 1: The Resistors<br>
 Resistors are not polarized so they can be installed either direction. I like to start with the 100ohm resistors and work my way up to the 10K ohm resistors. The gold band is the percentage of accuracy. To read a resistor, start at the opposite side of the gold band.
 
 100 ohm - brown black brown (QTY4)<br>
-220 ohm – red yellow brown (QTY 4)<br>
+220 ohm – red yellow brown (QTY 5)<br>
 470 ohm – yellow violet brown (QTY 3)<br>
 10K ohm – brown black orange (QTY 4)<br>
 
