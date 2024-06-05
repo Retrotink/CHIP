@@ -76,7 +76,7 @@ Step 9: .1uF capacitors<br>
 
 ![cap 1](https://github.com/Retrotink/PockeTerm-II/assets/121696513/b4f1ca5c-9019-4a8d-b8e1-dcfbb06bebc8)
 
-Install the two .1uF (C1-C5) caps into their locations. The caps are labeled 104 and are not polarized so they can be installed either way. Fit as flush as possible, bend the 2 wires apart a little so the capacitor does not fall out, turn the board over and set it on your workspace. Solder the leads onto the PCB and cut away the excess lead length.
+Install the five .1uF (C1-C5) caps into their locations. The caps are labeled 104 and are not polarized so they can be installed either way. Fit as flush as possible, bend the 2 wires apart a little so the capacitor does not fall out, turn the board over and set it on your workspace. Solder the leads onto the PCB and cut away the excess lead length.
 
 Step 10: .01uF capacitor <br>
 ![cap 01](https://github.com/Retrotink/PockeTerm-II/assets/121696513/ffa5ab7a-6fa5-4246-9df7-4ea65dda23fc)
