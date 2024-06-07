@@ -58,7 +58,8 @@ Step 6: Install the SD Card connector board
 
 ![6](https://github.com/Retrotink/CHIP/assets/121696513/71b6ad80-15ca-4312-8dd1-92e20a4c5fca)
 
-WARNING: The SD connector is fragile and can break away from the PCB. <br>
+<br>
+#WARNING: The SD connector is fragile and can break away from the PCB. If this happens, you can repair and it will still function.<br>
 <br>
 
 The SD Card board has 6 pins that need to go into the board so the socket faces out over the edge of the board. While holding the SD Card board, turn the CHIP PCB over and carefully place the board on the table. Solder 1 pin down and turn the board over and verify the SD Board is flush to the CHIP PCB (adjust if necessary). Solder the remaining pins down and verify that the SD Card board is finished.
