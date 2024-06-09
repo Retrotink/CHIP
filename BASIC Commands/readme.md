@@ -119,6 +119,55 @@ Places data from a file opened for reading into the specified variables.  The nu
 ### CLOSE
 Closes the file currently open, if any.  Color BASIC can have only one file open at any given time.<br>
 
+# GPIO Commands (Pin I/O Commands)
+
+### INA <pin>
+Reads the value of the voltage level (either a logic 1 or 0) on the specified input/output <pin> (0 through 31) of the Propeller chip.  Used for interfacing Color BASIC programs to external circuits through the Amigo experimenter’s section. <br>
+
+### OUTA[<pin>] = n
+Changes the specified input/output <pin> of the Propeller chip (0 through 31) to either a logic 1 or 0.  Used for interfacing programs to external circuits through the Amigo experimenter’s section.  <br>
+
+# Operators and Other Commands
+
+### Arithmetic Operators
+Color BASIC supports 32-bit integer arithmetic, including operators for addition (+), subtraction (-), multiplication (*), integer division (/), and modulo or remainder (//).  <br>
+Arithmetic operations return a 32-bit integer value.<br>
+
+### Comparison Operators
+Comparison operators include greater than (>), less than (<), equals (=), greater than or equal to (>=), less than or equal to (<=), and not equal to (<>).<br>  
+Comparison operations return either a -1 (the comparison is TRUE) or 0 (the comparison is FALSE).<br>
+
+### Logical Operators
+Color BASIC logical operators include NOT, AND, and OR.  Logical operations also return either a -1 or a 0 value.<br>
+
+### BRUN “filename”
+Loads a binary file from the SD card to Amigo main memory and runs it.  The loaded file completely replaces Color BASIC (which is itself a Propeller binary).  CHIP Color BASIC is reloaded and run after “filename” terminates.  Several games and other programs are available for the CHIP as .BIN files. <br>
+
+### BYTE [nnnnn]
+Reads or writes an 8-bit value from / to the CHIP main memory location specified, where nnnnn is between 0 and 32767.  The command can be used on either side of the “equals sign” assignment operator, as in A=BYTE[1921] (reading from main memory) and BYTE[1921]=65 (writing to it).  <br>
+
+### Caution should be used when writing to main memory because this could corrupt the CHIP Color BASIC image and lead to unexpected results.  If this happens, just reboot.
+
+### MEM
+Returns the amount of unused program memory, in bytes.  The Amigo has 4K of program memory with no program loaded.<br>
+
+### RND (n)
+Returns a random number between 0 and n - 1.<br>
+
+### SERIAL r,t,m,b
+Initializes the Amigo serial communication channel, where r is the receive Propeller pin (default 31), t is the transmit pin (default 30), m is the mode (default 0), and b is the baud rate (between 300 and 115200).  <br>
+Generally placed at the beginning of a program, as in SERIAL 31,30,0,115200.<br>
+
+### RX
+Fetches a byte from the previously initialized serial receive pin and passes it to a variable, as in  A=RX.<br>
+
+### TX <byte>
+Pushes a byte to the previously initialized serial transmit pin, as in TX A.<br>
+
+### VER
+Returns the version of Color BASIC loaded in the EEPROM of the Amigo, used on each boot up.<br>
+
+
 
 
 
