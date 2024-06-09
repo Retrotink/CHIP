@@ -13,6 +13,7 @@ Copies the current program to the screen.  Each program line must begin with a n
 
 ### DIR
 Lists a directory of files on the SD card.  Only shows those files in the root directory.<br>
+SD card must be FAT32 format<br>
 
 ### SAVE “name.bas”
 Saves the program currently in program memory to the SD card, with the name and extension inside the quotes.<br>
