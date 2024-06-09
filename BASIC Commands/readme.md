@@ -123,7 +123,7 @@ Closes the file currently open, if any.  CHIP Color BASIC can have only one file
 # GPIO Commands (Pin I/O Commands)
 
 ### INA <pin>
-Reads the value of the voltage level (either a logic 1 or 0) on the specified input/output <pin> (0 through 31) of the Propeller chip.  Used for interfacing CHIP Color BASIC programs to external circuits through the Amigo experimenter’s section. <br>
+Reads the value of the voltage level (either a logic 1 or 0) on the specified input/output <pin> (0 through 31) of the Propeller chip.  Used for interfacing CHIP Color BASIC programs to external circuits through the CHIP experimenter’s onboard ports 8-15. <br>
 
 ### WARNING: Use only 8-15 pins for I/O that is on the CHIP PCB for experimenting. Using other I/O pins could cause issues and force you to RESET your CHIP Computer.
 
