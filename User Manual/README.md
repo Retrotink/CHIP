@@ -5,7 +5,7 @@ This manual is designed as an overview of the CHIP singleboard computer and the 
 Work in progress... Coming soon...<br>
 <br>
 
-## Set Up and First Power Up of your CHIP Computer<br>
+## Quick Set Up and First Power Up of your CHIP Computer<br>
 
 <br>
 
