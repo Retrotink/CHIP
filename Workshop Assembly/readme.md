@@ -130,13 +130,16 @@ If the pins are not lined up, they will push back and not go through the pcb. Pl
 The male header is optional and allows you to connect a ribbon cable to a bread board or other project for I/O experimenting. <b>
 If soldering in place, place and hold connector while turning board over and setting on table. You may need something underneath to support the header.<br>
 Solder one corner pin and turn over to check if the header is flush with the PCB. If it is, continue with the remaining pins. If not, heat the one pin up while pushing down on the header. Warning, the pin does get very hot. Be quick.<br>
+<br>NOTE: If you want the optional female header, it is available at <br>
+Mouser: https://www.mouser.com/ProductDetail/Harwin/M20-7830946?qs=Jph8NoUxIfWftUxGO%2FckBg%3D%3D
 
+<br>
 
 ### Step 16: The cleanup
 
 Optional: Before you power up your board, it is recommended that you wash off any excess flux and check for any missed solder connections. I like to clean with plain water and a soft tooth brush. Run under the tap water for a minute washing off excess flux. Flush again with Isopropyl Alcohol. Dry immediately with a blow dryer on low heat. You can also use canned or compressed air in place of blow dryer.
 
-### Step 16: Initial power test
+### Step 17: Initial power test
 
 Install the IC chips; connect a keyboard and VGA monitor. Plug in your CHIP to a wall power suppy after everything is connected. The USB will also show the RED LED on to show that power is coming into the unit. Turn on your CHIP computer and you should get a text log message at the top of your screen. The keyboard will also blink as it is powered on. If you don't get anything, turn off the computer and recheck your connections.<br>
 
