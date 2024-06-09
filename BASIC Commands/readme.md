@@ -84,7 +84,10 @@ Directs program flow to the subroutine at Line xxx, then back to the calling rou
 
 ### IF expression THEN command
 Checks to see whether the expression is TRUE (non-zero), and if it is executes the command(s) following THEN.  CHIP Color BASIC does not include ELSE or ENDIF constructs.  Multiple commands can be concatenated after the THEN by separating them with a colon.<br>
-### Example: 10 IF A=B THEN GOTO 200
+### Example: 
+
+### 10 IF A=B THEN GOTO 200
+In the example above, if A and B variables are the same, then the program will "goto" line 200. The "goto" is required. It will error without it. <br>
 
 ### PAUSE nnnn
 Pauses program execution for nnnn milliseconds.<br>
