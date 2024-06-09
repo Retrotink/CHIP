@@ -16,13 +16,19 @@ CHIP Shown with Power, SD Card, Audio, VGA Video and PS/2 Keyboard attached<br>
 To turn on, move the slide switch toward the near corner of the board and the unit will turn on.<br>If speakers are installed you will hear a tone indicating that the computer is up and running. <br>
 <br>
 
+![20240609_074926](https://github.com/Retrotink/CHIP/assets/121696513/c5d7e10a-d565-433f-a8a9-6a143c60fc48)
+
 
 First thing to check is that your SD card is working correctly.<br>
 Type the command "dir" and press the "enter" key and the keyboard.<br>
 This will list out your files on the SD card.<br>
 <br>
 
-One thing to note: To stop a program press the "pause/break" key on the keyboard. <br>
+![20240609_074950](https://github.com/Retrotink/CHIP/assets/121696513/133b99c6-99b1-4274-ba7b-2d9b62127739)
+
+<br>
+
+### One thing to note: To stop a program press the "pause/break" key on the keyboard. <br>
 <br>
 Let's load a game!<br>
 <br>
@@ -39,6 +45,11 @@ This will dump the listing of the program onto the screen. <br>To list only a se
 
 ### LIST 1,100<br>
 This will list any lines of code between 1 and 100 including lines 1 and 100<br>
+<br>
+
+![20240609_075729](https://github.com/Retrotink/CHIP/assets/121696513/4de9715e-6aa9-4c57-8fcf-8a81f596a96f)
+
+<br>
 <br>
 To run the game, you type in:<br>
 
