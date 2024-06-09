@@ -9,7 +9,7 @@ Executes the program currently stored in program memory.<br>
 Halts the program currently running.<br>
 
 ### LIST
-Copies the current program to the screen.  Each program line must begin with a number, and program lines will be listed and executed in numerical order.  To delete a program line, type just its number at the flashing prompt and press <Enter>.<br>
+Copies the current program to the screen.  Each program line must begin with a number, and program lines will be listed and executed in numerical order.  To delete a program line, type just its number at the flashing prompt and press Enter.<br>
 
 ### DIR
 Lists a directory of files on the SD card.  Only shows those files in the root directory.<br>
