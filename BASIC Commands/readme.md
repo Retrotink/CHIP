@@ -43,6 +43,7 @@ Clears the screen with the current background color; moves cursor to top left co
 
 ### COLOR f,b
 Sets the foreground and background colors for subsequent screen commands.  CHIP Color BASIC has 64 colors (0-63).<br>
+f is foreground color, b is background color<br>
 
 ### LOCATE c,r
 Moves the cursor to the specified text column (0-49) and row (0-36).<br>
