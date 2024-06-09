@@ -57,7 +57,39 @@ To run the game, you type in:<br>
 <br>
 The game is played with the arrow keys.<br>
 <br>
-To stop the game press the pause/break key on the keyboard.<br>
+
+### NOTE: To stop the game press the pause/break key on the keyboard.<br>
+<br>
+
+### Writing our First Program!<br>
+<br>
+CHIP has a built in Tiny BASIC that can do color screen programming. <br>
+Let's start with something simple. First we need to clear the program memory.<br>
+We do that with the "new" command. Type in:
+
+### NEW<br>
+<br>
+The program memory is now clear and ready for you to program.<br>
+Let's make a really simple "Hello World" program.<br>
+<br>
+Type in the following program as shown.<br>
+<br>
+
+### 10 CLS<br>
+
+### 20 PRINT "HELLO WORLD!"<br>
+
+### 30 END<br>
+<br>
+When you type in "run" the program will clear the screen and start from the top-left of the screen.<br>
+It will then print out the statement "HELLO WORLD!" on the screen.<br>
+The last program line is END, this does what it says and ends the program.<br>
+<br>
+This is a quick start guide and not programming guide, there are many books out there on programming BASIC.<br>
+Keep in mind, this is a Tiny BASIC and no string variables are included, but there is 32K of memory to peek and poke.<br>
+So you can see in the program INPUT.BAS how to input variables and store them and recall them from memory. <br>
+I'm going to try and have an explination of every BASIC command in another folder on github.<br>
+
 
 
 
