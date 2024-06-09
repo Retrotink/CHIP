@@ -101,7 +101,7 @@ Terminates program execution and returns to the flashing cursor prompt to await 
 # Audio Commands
 
 ### NOTEON nn
-Sends a continuing tone of value nn to the audio connector; useful values seem to range from 0 to 100.  A powered speaker works best with the Amigo, but earbuds will do in a pinch.<br>
+Sends a continuing tone of value nn to the audio connector; useful values seem to range from 0 to 100.  A powered speaker works best with the CHIP Computer, but earbuds will do in a pinch.<br>
 
 ### NOTEOFF
 Stops any tone currently playing on the audio connector.<br>
