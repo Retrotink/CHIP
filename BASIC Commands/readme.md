@@ -5,7 +5,7 @@
 ### RUN<br>
 Executes the program currently stored in program memory.<br>
 
-### <break>
+### break key
 Halts the program currently running.<br>
 
 ### LIST
