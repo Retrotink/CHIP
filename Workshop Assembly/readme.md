@@ -132,11 +132,10 @@ If the pins are not lined up, they will push back and not go through the pcb. Pl
 
 
 
-The female header is optional and allows you to connect a devices like LED with resistors for I/O experimenting. <b>
-If soldering in place, place and hold connector while turning board over and setting on table. You may need something underneath to support the header.<br>
-Solder one corner pin and turn over to check if the header is flush with the PCB. If it is, continue with the remaining pins. If not, heat the one pin up while pushing down on the header. Warning, the pin does get very hot. Be quick.<br>
-<br>NOTE: If you want the optional female header, it is available at <br>
-Mouser: https://www.mouser.com/ProductDetail/Harwin/M20-7830946?qs=Jph8NoUxIfWftUxGO%2FckBg%3D%3D
+The female header allows you to connect a devices like LED with resistors for I/O experimenting. <br>
+If soldering in place, place and hold connector while turning board over and setting on table. <br>
+The pins have a outward bend, but you may need something underneath to support the header.<br>
+Solder one corner pin and turn over to check if the header is flush with the PCB. If it is, continue with the remaining pins. If not, heat the one pin up while pushing down on the header.<br>
 
 <br>
 
