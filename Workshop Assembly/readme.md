@@ -125,9 +125,14 @@ If the pins are not lined up, they will push back and not go through the pcb. Pl
 
 ![13](https://github.com/Retrotink/CHIP/assets/121696513/179db92b-9d87-4fe9-97c9-23a94d0c6288)
 
-### Step 15: (Optional) Install the 5X2 male header<br>
+### Step 15: Install the 5X2 female header<br>
 
-The male header is optional and allows you to connect a ribbon cable to a bread board or other project for I/O experimenting. <b>
+
+![image](https://github.com/Retrotink/CHIP/assets/121696513/3f4ed648-eb6e-4048-a83c-2e3067439094)
+
+
+
+The female header is optional and allows you to connect a devices like LED with resistors for I/O experimenting. <b>
 If soldering in place, place and hold connector while turning board over and setting on table. You may need something underneath to support the header.<br>
 Solder one corner pin and turn over to check if the header is flush with the PCB. If it is, continue with the remaining pins. If not, heat the one pin up while pushing down on the header. Warning, the pin does get very hot. Be quick.<br>
 <br>NOTE: If you want the optional female header, it is available at <br>
