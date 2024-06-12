@@ -7,7 +7,7 @@
 
 
 ## A Single board Color Computer with Tiny Color BASIC<br>
-## VCFSW Workshop 2024 Hosted by Vince Briel
+## VCFSW Exclusive Workshop 2024 Hosted by Vince Briel
 ## Sunday June 16th 9:00 AM
 ## Kit price $50.00 Available at my table Friday & Saturday
 
