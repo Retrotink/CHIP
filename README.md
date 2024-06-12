@@ -1,4 +1,8 @@
-# C.H.I.P. (C)omplete (H)omebrew (I)ntegrated (P)rocessor<br>
+# C.H.I.P.<br>
+### (C)omplete <br>
+### (H)omebrew <br>
+### (I)ntegrated <br>
+### (P)rocessor<br>
 
 ![15](https://github.com/Retrotink/CHIP/assets/121696513/aad8cdb2-fd03-4e4e-973e-a151032b2a93)
 <br>
